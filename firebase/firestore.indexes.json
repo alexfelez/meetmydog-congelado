@@ -1,0 +1,32 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "paseos",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "createdBy",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "horaFin",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "perros_amigos",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "usuario_id",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "fecha_agregado",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}

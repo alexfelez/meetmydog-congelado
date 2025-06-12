@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818368654661",
+    "project_id": "meetmydog---proyecto",
+    "storage_bucket": "meetmydog---proyecto.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818368654661:android:6c8f7f1bef5d87176fa22c",
+        "android_client_info": {
+          "package_name": "com.mycompany.meetmydogproyectodam2dalejandrofelez"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjVFTPmshwv5Rd8eDI1WzmgxPkgxxGetY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
