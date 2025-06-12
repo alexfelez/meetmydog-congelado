@@ -1,8 +1,9 @@
 # MeetMyDog - Proyecto DAM2D - Alejandro Felez
 
-A new Flutter project.
+Este proyecto está congelado.
 
-## Getting Started
+## Visualizar el código
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+Para el codigo fuente en lenguaje dart, abrir la carpeta lib/
+
 # meetmydog-congelado
